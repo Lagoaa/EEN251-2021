@@ -84,7 +84,7 @@ ha = x*2.44
 
 
 
-
+################## Originalmente o projeto iria enviar o texto para um display OLED porém ouve uma atualização e acabou complicando a utilização do display
 
 if (value < AmpAlto):
 
